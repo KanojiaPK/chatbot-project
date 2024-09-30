@@ -1,0 +1,29 @@
+.cardSearch {
+  position: absolute;
+  top: -60px;
+}
+
+.cardSearch {
+  position: absolute;
+  top: -60px; /* Adjust this value as needed */
+}
+
+.searchItem {
+  position: relative;
+}
+
+.searchItem:not(:last-child) {
+  border-right: 1px solid #e0e0e0; /* Light gray border for separators */
+  padding-right: 16px; /* Adjust padding for better separation */
+}
+
+.react-datepicker__input-container input {
+  border: 1px solid #dcdcdc; /* Custom border color */
+  border-radius: 4px;
+}
+
+.inp2 {
+  position: absolute;
+  right: -62px;
+  top: -14px;
+}
